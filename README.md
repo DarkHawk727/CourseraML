@@ -4,4 +4,4 @@ This is a repo for all my work and notes for the Stanford Machine Learning Cours
 # Progress
 | Week # | Readings | Quizzes | Assignments |
 |--------|----------|---------|-------------|
-| Week # | DONE | Introduction | Assignments |
+| Week 1 | DONE | Introduction, Linear Regression, Linear Algebra | N/A |
