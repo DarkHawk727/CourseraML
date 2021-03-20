@@ -1,5 +1,5 @@
 # CourseraML
-This is a repo for all my work and notes for the Stanford Machine Learning Course taught by Andrew Ng.
+This is a repo for all my work and notes for the Stanford Machine Learning Course taught by Andrew Ng . The notes are mine, made with LaTeX.
 
 # Progress
 | Week # | Readings/Lectures/Notes| Quizzes | Completion | Assignments | Completion |
