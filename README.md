@@ -12,7 +12,7 @@ This is a repo for all my work and notes for the Stanford Machine Learning Cours
 | Week 6 | NOT DONE | Advice for Applying Machine Learning, Machine Learning System Design | | Regularized Linear Regression and Bias/Variance |  |
 | Week 7 | NOT DONE | Support Vector Machines | | Support Vector Machines | | 
 | Week 8 | NOT DONE | Unsupervised Learning, Principal Component Analysis | | K-Means Clustering & PCA | | 
-| Week 9 | NOT DONE | Anomaly Detection | | N/A | N/A |
+| Week 9 | NOT DONE | Anomaly Detection, Recommender Systems | | Anomaly Detection and Recommender Systems |  |
 | Week 10 | NOT DONE | Large-Scale Machine Learning | | N/A | N/A | 
 | Week 11 | NOT DONE | N/A | N/A | Photo OCR | |
 
