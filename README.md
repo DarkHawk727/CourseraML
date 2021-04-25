@@ -8,7 +8,7 @@ This is a repo for all my work and notes for the Stanford Machine Learning Cours
 | Week 2 | DONE | Linear Regression with multiple Variables, Octave/MATLAB | :heavy_check_mark: | Linear Regression | :heavy_check_mark: |
 | Week 3 | DONE | Logistic Regression, Regularization | :heavy_check_mark: | Logistic Regression | :heavy_check_mark:  |
 | Week 4 | DONE | Neural Networks: Repersentation| :heavy_check_mark: | Multi-class Classification and Neural Networks | :heavy_check_mark: | 
-| Week 5 | NOT DONE | Neural Networks: Learning | | Neural Network Learning | |
+| Week 5 | DONE | Neural Networks: Learning | :heavy_check_mark: | Neural Network Learning | :heavy_check_mark: |
 | Week 6 | NOT DONE | Machine Learning Systems Design | | N/A | N/A |
 | Week 7 | NOT DONE | Support Vector Machines | | Support Vector Machines | | 
 | Week 8 | NOT DONE | Unsupervised Learning, Principal Component Analysis | | K-Means Clustering & PCA | | 
