@@ -10,7 +10,7 @@ This is a repo for all my work and notes for the Stanford Machine Learning Cours
 | Week 4 | DONE | Neural Networks: Repersentation| :heavy_check_mark: | Multi-class Classification and Neural Networks | :heavy_check_mark: | 
 | Week 5 | DONE | Neural Networks: Learning | :heavy_check_mark: | Neural Network Learning | :heavy_check_mark: |
 | Week 6 | DONE | Advice for Applying Machine Learning, Machine Learning System Design | :heavy_check_mark: | Regularized Linear Regression and Bias/Variance | :heavy_check_mark: |
-| Week 7 | NOT DONE | Support Vector Machines | | Support Vector Machines | | 
+| Week 7 | DONE | Support Vector Machines | :heavy_check_mark: | Support Vector Machines | :heavy_check_mark: | 
 | Week 8 | NOT DONE | Unsupervised Learning, Principal Component Analysis | | K-Means Clustering & PCA | | 
 | Week 9 | NOT DONE | Anomaly Detection, Recommender Systems | | Anomaly Detection and Recommender Systems |  |
 | Week 10 | NOT DONE | Large-Scale Machine Learning | | N/A | N/A | 
