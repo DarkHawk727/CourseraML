@@ -1,5 +1,5 @@
 # CourseraML
-This is a repo for all my work and notes for the Stanford Machine Learning Course taught by Andrew Ng . The notes are mine, made with LaTeX.[I decided to switch back to paper notes at week 5]
+This is a repo for all my work and notes for the Stanford Machine Learning Course taught by Andrew Ng . The notes are mine, made with LaTeX.[I decided to switch back to paper notes at week 5]. As of August 10th, 2021, I have completed the course, 🎉. (Certificate in repo)
 
 # Progress
 | Week # | Readings/Lectures/Notes| Quizzes | Completion | Assignments | Completion |
@@ -14,5 +14,5 @@ This is a repo for all my work and notes for the Stanford Machine Learning Cours
 | Week 8 | DONE | Unsupervised Learning, Principal Component Analysis | :heavy_check_mark: | K-Means Clustering & PCA | :heavy_check_mark: | 
 | Week 9 | DONE | Anomaly Detection, Recommender Systems | :heavy_check_mark: | Anomaly Detection and Recommender Systems | :heavy_check_mark: |
 | Week 10 | DONE | Large-Scale Machine Learning | :heavy_check_mark: | N/A | N/A | 
-| Week 11 | NOT DONE | Photo OCR |  | N/A | N/A |
+| Week 11 | DONE | Photo OCR | :heavy_check_mark: | N/A | N/A |
 
